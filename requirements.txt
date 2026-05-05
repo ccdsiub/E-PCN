@@ -1,0 +1,40 @@
+ace-tools
+awkward
+awkward_pandas
+dgllife
+dill
+h5py
+igraph
+jupyter
+kernel
+matplotlib
+networkx
+notebook
+numpy
+pandas
+plotly
+scikit-learn
+scikit-plot
+scipy
+seaborn
+tables
+tqdm
+uproot
+wandb
+gputil
+psutil
+uproot3
+rdkit
+
+
+
+
+
+# torch
+# torchvision
+
+# CUDA 11.8
+#pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url https://download.pytorch.org/whl/cu124
+
+# DGL
+#pip install  dgl -f https://data.dgl.ai/wheels/torch-2.4/cu124/repo.html
