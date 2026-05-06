@@ -1,6 +1,15 @@
 # Interaction Feature-Guided Explainable Particle Chebyshev Networks (E-PCN) for Jet Tagging
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2512.07420">
+    <img src="https://img.shields.io/badge/arXiv-2512.07420-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Submitted%20to-JHEP-006699?style=for-the-badge&logo=academia&logoColor=white" alt="JHEP"/>
+</p>
+
+
+<p align="center">
   <a href="https://ccds.ai/">
     <img src="https://img.shields.io/badge/Maintained%20by-CCDS%20Team-ff8c00?style=for-the-badge&logo=academia&logoColor=white" alt="Maintained by CCDS"/>
   </a>
