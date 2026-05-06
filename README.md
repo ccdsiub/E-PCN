@@ -5,7 +5,9 @@
     <img src="https://img.shields.io/badge/arXiv-2512.07420-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Submitted%20to-JHEP-006699?style=for-the-badge&logo=academia&logoColor=white" alt="JHEP"/>
+  <a href="https://link.springer.com/journal/13130">
+    <img src="https://img.shields.io/badge/Submitted%20to-JHEP-006699?style=for-the-badge&logo=academia&logoColor=white" alt="JHEP"/>
+  </a>
 </p>
 
 
