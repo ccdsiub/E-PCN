@@ -63,7 +63,7 @@ For each pair of particles $(a, b)$ in a jet, we compute four kinematic observab
 | $y_i$ | Rapidity of particle $i$ |
 | $\phi_i$ | Azimuthal angle of particle $i$ |
 | $p_{T,i}$ | Transverse momentum: $p_{T,i} = \sqrt{p_{x,i}^2 + p_{y,i}^2}$ |
-| $\mathbf{p}_i$ | 3-momentum vector: $\mathbf{p}_i = (p_{x,i},\, p_{y,i},\, p_{z,i})$ |
+| $\mathbf{p}_i$ | Momentum 3-vector of particle $i$: $p_{i} = (p_{x,i}, p_{y,i}, p_{z,i})$ |
 | $E_i$ | Energy of particle $i$ |
 | $\lVert \cdot \rVert$ | Euclidean norm |
 
