@@ -148,7 +148,9 @@ The 76% combined importance of $\Delta$ and $k_T$ is consistent with the soft-co
 A large-scale benchmark comprising 100M jets across 10 classes (9 signal + 1 background), generated with Pythia 8.230. Signal classes include Higgs boson decays ($H \to b\bar{b}$, $H \to c\bar{c}$, $H \to gg$, $H \to 4q$, $H \to \ell\nu qq'$), top quark decays ($t \to bqq'$, $t \to b\ell\nu$), and electroweak boson decays ($W \to qq'$, $Z \to q\bar{q}$). We train on 1M jets (100K per class) and evaluate on the full 20M jet test set.
 
 ### Aspen Open Jets
-Approximately 178 million high-$p_T$ jets from the CMS 2016 JetHT proton-proton collision Open Data. Since ground-truth class labels are not publicly available, representation quality is assessed using unsupervised clustering metrics (DBI, Dunn Index) after training with the DeepCluster algorithm.
+Approximately **178 million high-p<sub>T</sub> jets** from the **CMS 2016 JetHT proton-proton collision Open Data** are used.
+
+Since ground-truth class labels are not publicly available, representation quality is assessed using **unsupervised clustering metrics**, including the **Davies-Bouldin Index (DBI)** and **Dunn Index**, after training with the **DeepCluster** algorithm.
 
 ---
 
